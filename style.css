@@ -1,0 +1,37 @@
+
+button{
+    background-color: greenyellow;
+   
+}
+
+a{
+    text-decoration: none;
+}
+
+h1,h2,h3,h4 {
+    color:greenyellow;
+}
+
+p,pre,li,article{
+    color:green;
+}
+
+body {
+    background-color: black;
+}
+
+#one{
+    text-align: center;
+    font-family: fantasy;
+
+}
+
+#two{
+    text-align: center;
+    text-decoration: underline dotted red; 
+}
+
+footer{
+       text-align: center;
+}
+
